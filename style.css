@@ -549,7 +549,7 @@ header .navbar{
     }
 
     .hero-section .hero-details :is(.subtitle,
-    description), .about-section .about-details, .contact-section .contact-form {
+    .description), .about-section .about-details, .contact-section .contact-form {
         max-width: 100%;
 
     }
